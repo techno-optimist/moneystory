@@ -1,0 +1,11 @@
+# Source documents
+*.docx
+*.pdf
+*.jsx
+
+# Temp files
+zihc14u1
+ziKriRNW
+
+# OS files
+.DS_Store
